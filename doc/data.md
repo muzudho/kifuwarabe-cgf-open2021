@@ -17,12 +17,16 @@
   * CPU @ 3.70GHz   3.70 GHz
   * メモリ 8.00 GB
   * Cドライブ いつも足りてない
-* 1台丸ごと遊び用PC
+* 1台丸ごと遊び用PC。普段使ってない
   * Windows 10
-  * `AMD Ryzen Threadripper 2920X 12-Core Processor`
-  * 3.50 GHz
-  * メモリ 16 GB
-  * Cドライブ のこり 85 GB ぐらい空いてる
+  * CPU
+    * `AMD Ryzen Threadripper 2920X 12-Core Processor`
+    * 3.50 GHz
+    * メモリ 16 GB
+    * Cドライブ のこり 85 GB ぐらい空いてる
+  * GPU
+    * `NVIDIA GeForce RTX 3080 Ti`
+    * 暖房。長時間の外出中は 計算止めてることが多い
 * NAS
   * のこり 1 TB ぐらい空いてる
 
